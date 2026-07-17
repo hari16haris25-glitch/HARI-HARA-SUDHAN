@@ -45,24 +45,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hari16haris25&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HARI-HARA-SUDHAN&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari16haris25&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARI-HARA-SUDHAN&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari16haris25&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARI-HARA-SUDHAN&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hari16haris25&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=HARI-HARA-SUDHAN&theme=onedark)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=hari16haris25E&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=HARI-HARA-SUDHANE&theme=tokyo-night)
 
 ---
 
